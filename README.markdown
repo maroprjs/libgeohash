@@ -1,3 +1,5 @@
+-> Note: changes to this fork on branch maro_changes
+
 libgeohash
 ==========
 
